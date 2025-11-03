@@ -25,13 +25,16 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import enviroa1 from "./company/enviroa1.png"
-import fuwah from "./company/fuwah.png"
-import fourtwenty from "./company/420.png"
+import enviroa1 from "./company/enviroa1.png";
+import fuwah from "./company/fuwah.png";
+import fourtwenty from "./company/420.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import rector from "./rector.png";
+import takk from "./takk.png";
+import mitr from "./mitr.jpg";
 
 export {
   logo,
@@ -64,5 +67,8 @@ export {
   tripguide,
   enviroa1,
   fuwah,
-  fourtwenty
+  fourtwenty,
+  rector,
+  takk,
+  mitr,
 };
