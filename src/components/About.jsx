@@ -47,8 +47,8 @@ const About = () => {
       >
         Passionate Full-Stack Developer with experience delivering real-world
         freelance projects from design to deployment. Skilled in Next.js,
-        TypeScript, Tailwind CSS, and Django, with a focus on clean UI, seamless
-        integration, and scalable web solutions.
+        TypeScript, Tailwind CSS, Prisma ORM, MongoDB, Supabase, Firebase with a
+        focus on clean UI, seamless integration, and scalable web solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
